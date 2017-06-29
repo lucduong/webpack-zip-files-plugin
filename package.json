@@ -1,0 +1,12 @@
+{
+  "name": "webpack-zip-files-plugin",
+  "version": "1.0.0",
+  "description": "Webpack Zip Multiple Files & Folders",
+  "main": "index.js",
+  "repository": "git@github.com:lucduong/webpack-zip-files-plugin.git",
+  "author": "Luc <luc@ltv.vn>",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^1.3.0"
+  }
+}
