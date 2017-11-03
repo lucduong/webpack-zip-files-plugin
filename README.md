@@ -5,7 +5,7 @@ Webpack Zip Multiple Files &amp; Folders or  create archives of emitted files.
 ```
 npm install --save-dev webpack-zip-files-plugin
 ```
-Fill free to use `yarn`
+Feel free to use `yarn`
 
 # Usage
 `webpack.config.js`
